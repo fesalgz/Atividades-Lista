@@ -12,6 +12,7 @@ int main() {
 	printf("\nDigite o valor B:\n");
 	scanf("%i", &b);
 	
+	//if para a logica
  	if(a == b){
  		c = a + b; 
 	 } else if(a > b) {
